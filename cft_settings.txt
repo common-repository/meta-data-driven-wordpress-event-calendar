@@ -1,0 +1,29 @@
+[Event Name]
+type = text
+size = 35
+
+[Venue]
+type = select
+value = 92Y Tribeca # Abrons Arts Center # Apollo Theatre # Asbury Park Convention Hall # BAM # Barnes and Noble # B.B. Kings # Beacon Theatre # Battery Park # Bell House # Bowery Ballroom # Brooklyn Borough Hall and Plaza # Brooklyn Bowl # Brooklyn Lyceum # Brooks Atkinson Theatre # Bruar Falls # Carnegie Hall  # Caroline's on Broadway # Citi Field # City Winery # Comix # Coney Island #East River State Park # Empire Polo Grounds # Fenway Park # General Motors Place (Vancouver, BC) # Governors Island # Gramercy Theater #Grand Ballroom at Manhattan Center # Grant Park (Chicago, IL) # Great Stage Park (Manchester, TN) # Halifax Common # Hammerstein Ballroom # Hilton Theatre # Hiro Ballroom # Highline Ballroom # Housing Works # Hudson River Park (Pier 54) # Irving Plaza # Izod Center # Jazz at Lincoln Center # Jerome L. Green Performance Space # Joe's Pub # Keyspan Park # Kimmel Center # Knitting Factory Brooklyn # Landmark Sunshine Cinema # Le Poisson Rouge  # Liberty State Park # Lincoln Center # Littlefield # Living Room # Lolita Bar # Lucille Lortel Theater # Maxwell's # Mercury Lounge # Merriweather Post Pavilion # Metropolitan Museum of Art # Museum of Natural History # Music Hall of Williamsburg # MSG # Nassau Coliseum # Newport, RI  #New Meadowlands Stadium # Nokia Theatre # NYPL (Main Library) # Pianos # Prospect Park Bandshell # Prudential Center # Radio City Music Hall # Red Star Bar # Roseland # Santos Party House # Shea Stadium # Sidewalk Cafe # Skirball Center # S.O.B.'s # South St Seaport # Slipper Room # Southpaw # St Anns Warehouse # Studio at Webster Hall # Summerstage # Symphony Space # Terminal 5 # The Yard # The Bitter End # The Gorge (George, WA) # Times Center # Town Hall # Triad Theatre # UCB Theatre # Union Hall # Union Park (Chicago, IL) # United Palace # United States Tennis Center (Flushing, NY) # Unknown Venue # Various Venues # Waldorf-Astoria # WaMu at MSG # Webster Hall # Wellmont Theatre
+
+[Start Date]
+type = text
+
+[End Date]
+type = text
+
+[Tickets]
+type = select
+value = ticketmaster # ticketweb # tickets.com # ticketfly.com # free
+
+[Other Ticket Link]
+type = text
+
+[Notes]
+type = text
+
+[Multiple Shows]
+type= radio
+valueLabel = Multiple Nights, Same Venue # Multiple Nights, Different Venues
+value = MN # MV
+clearButton = true
